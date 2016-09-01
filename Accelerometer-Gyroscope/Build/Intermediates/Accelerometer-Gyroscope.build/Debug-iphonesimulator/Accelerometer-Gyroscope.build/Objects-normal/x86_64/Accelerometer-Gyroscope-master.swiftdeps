@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "2db12bb4a8dde7979d0209a536508472"
+build_time: [526072947, 597346000]
+inputs:
+  "/Users/kihan/Accelerometer-Gyroscope/Accelerometer-Gyroscope/Accelerometer-Gyroscope/ViewController.swift": [526072866, 0]
+  "/Users/kihan/Accelerometer-Gyroscope/Accelerometer-Gyroscope/Accelerometer-Gyroscope/AppDelegate.swift": [526072804, 0]
